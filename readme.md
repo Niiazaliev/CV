@@ -7,7 +7,7 @@
 ## Summary 
 ##### Exceptionally creative and dependable Front-End Developer with superb work ethic. I am knowledgeable in a wide variety of computer languages as well as the principles and techniques of website construction and maintenance. Highly adept at conveying complex technical information to a variety of professional and lay audiences in a clear and understandable manner.
 
-## My | skills 
+My | skills 
 ------------ | -------------
 HTML | CSS 
 JavaScript | SCSS
