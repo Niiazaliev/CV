@@ -33,7 +33,7 @@ document.getElementById("demo").innerHTML = x;
 * Coordinated a small team
 * Helped an education start-up gain traction and proceed to higher funding stages
 * Developed a phonegap app for a Finnish social network (Nearhood)
-* Designed & developed a software for IT-Project https://niiazaliev.github.io/figma-itproject
+* Designed & developed a software for IT-Project [https://niiazaliev.github.io/figma-itproject](https://niiazaliev.github.io/figma-itproject)
 * Designed & developed a point-of-sale app for bars & restaurants
 
 
